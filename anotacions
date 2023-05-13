@@ -1,0 +1,38 @@
+/* 
+Quando se deve usar o map :
+
+Quando voce precisa obter um array,
+com a mesma quantidade de itens do array original.
+
+EXEMPLO:
+
+array original:[1,2,3]
+array triplicado:[3,4,9]
+
+*/
+
+/*
+Quando se deve usar o filter :
+
+Quando voce precisa obter um novo array,com uma quantidade menor de itens
+do que o array original.
+
+EXEMPLO:
+array original:[1,2,3]
+array com menores < que 3:[1,2]
+
+
+*/
+
+/*
+Quando se deve usar o reduce:
+
+Quando baseado no array original, voce precisa "reduzir" o array a um valor
+
+
+EXEMPLO:
+
+array original:[1,2,3]
+array somado;[6]
+
+*/
